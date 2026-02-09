@@ -47,7 +47,7 @@ After a win or draw, the game automatically resets after 3 seconds.
 ---
 
 ## 📸 Screenshot
- ![Application Screenshot]()
+ ![Application Screenshot](Tic-Tac-Toe-GUI/screenshot.png)
 
  ---
 
